@@ -4,7 +4,7 @@ import locators.LoginPageLocators;
 import org.openqa.selenium.support.PageFactory;
 
 public class LoginPageActions {
-    LoginPageLocators loginPageLocators = null;
+    LoginPageLocators loginPageLocators;
 
     public LoginPageActions() {
 
