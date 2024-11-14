@@ -4,7 +4,7 @@ import locators.HomePageLocators;
 import org.openqa.selenium.support.PageFactory;
 
 public class HomePageActions {
-    HomePageLocators homePageLocators = null;
+    HomePageLocators homePageLocators;
 
     public HomePageActions() {
 

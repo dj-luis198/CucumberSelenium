@@ -4,7 +4,7 @@ import locators.ForgotPasswordLocators;
 import org.openqa.selenium.support.PageFactory;
 
 public class ForgotPasswordActions {
-    ForgotPasswordLocators forgotPasswordLocators = null;
+    ForgotPasswordLocators forgotPasswordLocators;
 
     public ForgotPasswordActions() {
 
